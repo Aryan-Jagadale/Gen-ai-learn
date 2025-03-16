@@ -1,0 +1,12 @@
+Here I am going to write my best references:
+
+1. Fusion: Combining multiple sources of information to improve the accuracy and robustness of the results.
+2. Reranking: Reordering the results of a retrieval system based on additional criteria or feedback.
+3. Retrieval with Feedback: Using user feedback to refine and improve the retrieval process.
+4. Adaptive Retrieval: Adjusting the retrieval process based on the context or changing requirements to provide more relevant results.
+
+
+
+
+Note:
+Evaluation RAGs remain ( learn)
