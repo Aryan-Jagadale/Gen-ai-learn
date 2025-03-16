@@ -4,6 +4,7 @@ Here I am going to write my best references:
 2. Reranking: Reordering the results of a retrieval system based on additional criteria or feedback.
 3. Retrieval with Feedback: Using user feedback to refine and improve the retrieval process.
 4. Adaptive Retrieval: Adjusting the retrieval process based on the context or changing requirements to provide more relevant results.
+5. Knowledge Graph: Utilizing structured representations of knowledge to enhance the retrieval and understanding of information.
 
 
 
