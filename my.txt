@@ -5,7 +5,9 @@ Here I am going to write my best references:
 3. Retrieval with Feedback: Using user feedback to refine and improve the retrieval process.
 4. Adaptive Retrieval: Adjusting the retrieval process based on the context or changing requirements to provide more relevant results.
 5. Knowledge Graph: Utilizing structured representations of knowledge to enhance the retrieval and understanding of information.
-
+6. RAPTOR: A retrieval-augmented generation model that leverages pre-trained language models and retrieval mechanisms to generate more accurate and contextually relevant responses.
+7. Self-RAG: A self-supervised retrieval-augmented generation model that improves its retrieval and generation capabilities through self-training and iterative refinement.
+8. Corrective RAG: A retrieval-augmented generation model that incorporates corrective feedback to refine and enhance the quality of generated responses.
 
 
 
