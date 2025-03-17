@@ -8,7 +8,7 @@ Here I am going to write my best references:
 6. RAPTOR: A retrieval-augmented generation model that leverages pre-trained language models and retrieval mechanisms to generate more accurate and contextually relevant responses.
 7. Self-RAG: A self-supervised retrieval-augmented generation model that improves its retrieval and generation capabilities through self-training and iterative refinement.
 8. Corrective RAG: A retrieval-augmented generation model that incorporates corrective feedback to refine and enhance the quality of generated responses.
-
+9 : Refer this https://github.com/NirDiamant/Controllable-RAG-Agent
 
 
 Note:
