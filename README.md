@@ -1,7 +1,5 @@
-Steps ollama run :
-https://claude.ai/chat/f5ad1f60-4654-4a10-a6e7-f2bf5c214a7e
 
-Resources :
+Resources(From hwere i am learning) :
 
 1. https://euron.one/learn/de0e43db-99f8-4593-b505-14b5f201ef25?tab=Overview&activeLectureId=8dda0d0d-fcd0-4167-9b45-8b5b9a241bfc
 
